@@ -1,2 +1,2 @@
 # Web-Development
-E commerce website for footbal jerseys
+E commerce website for football jerseys
